@@ -1,0 +1,7 @@
+flask
+groq
+sentence-transformers
+transformers
+torch
+networkx
+scipy
